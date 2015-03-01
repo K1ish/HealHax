@@ -1,0 +1,7 @@
+name: HealMe
+main: me.k1ish.HealMe
+version: 1.0
+commands:
+   heal:
+      description: Heal urself
+      usage: /<command>
